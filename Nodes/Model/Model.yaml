@@ -5,3 +5,11 @@ Children:
   Id: g=804fe8f774eb963b116a37a2c0162829
   Type: BaseDataVariableType
   DataType: Int32
+- Name: Var_TankProduct
+  Id: g=fa7f22036e1d1d1a84e2da23f0cb52f6
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: Var_TankProduct_2
+  Id: g=8701510194fe3fd8c3ec8c0729ad3715
+  Type: BaseDataVariableType
+  DataType: Int32

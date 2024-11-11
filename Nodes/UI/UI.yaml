@@ -264,4 +264,15 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 300.0
+    - Name: HorizontalAlignment
+      Type: BaseVariableType
+      DataType: HorizontalAlignment
+      ModellingRule: Optional
+      Value: 3
+    - Name: VerticalAlignment
+      Type: BaseVariableType
+      DataType: VerticalAlignment
+      ModellingRule: Optional
+      Value: 3
 - File: Screens/Screens.yaml
+- File: Widget/Widget.yaml
